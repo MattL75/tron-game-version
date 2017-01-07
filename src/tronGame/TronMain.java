@@ -1,3 +1,8 @@
+/*
+ * Game made by Mathieu Lajoie
+ * Computer Science Student @ Concordia University
+ */
+
 package tronGame;
 
 import java.io.File;
