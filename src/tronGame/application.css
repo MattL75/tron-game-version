@@ -1,0 +1,43 @@
+.combo-box .list-cell 
+{
+    -fx-background-color: black;
+}
+
+.combo-box-popup .list-view 
+{
+    -fx-background-color: black;
+    -fx-border-color: darkturquoise;
+    -fx-border-width: 3;
+}    
+
+.combo-box-popup .list-view .list-cell:filled:hover 
+{
+    -fx-background-color: dimgray;
+}
+
+.combo-box-base  
+{
+    -fx-background-color: black;
+    -fx-border-color: darkturquoise;
+    -fx-border-width: 3;
+}
+
+.slider .thumb {
+    -fx-background-color: black;
+    -fx-border-color: darkturquoise;
+    -fx-border-width: 2;
+    -fx-pref-height: 40.0;
+    -fx-pref-width: 40.0;
+}
+
+.slider .track {
+	-fx-background-color: black;
+    -fx-border-color: darkturquoise;
+    -fx-border-width: 2; 
+    -fx-pref-height: 20.0;
+}
+
+.slider .axis {
+	-fx-tick-label-fill: darkturquoise;
+	-fx-tick-label-font-size: 20;
+}
